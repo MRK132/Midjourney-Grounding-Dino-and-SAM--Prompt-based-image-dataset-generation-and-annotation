@@ -8,7 +8,7 @@ This notebook is based on the brilliant work on this topic from [Roboflow](https
 
 Extra steps I am adding:
 
-* Download my Midjourney-generated images of cows from an AWS S3 Bucket that I have hosted.
+* Download my Midjourney-generated images of cows from my Google Drive link as a zip.
 
 * Follow the Grounding DINO and SAM setup outlined by Roboflow.
 
