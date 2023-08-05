@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/MRK132/Midjourney-Grounding-Dino-and-SAM--Prompt-based-image-dataset-generation-and-annotation/blob/main/Midjourney%2C_Grounding_Dino_and_SAM%E2%80%8A_%E2%80%8APrompt_based_image_dataset_generation_and_annotation.ipynb)
 
 
-# Midjourney, Grounding Dino and SAM - Prompt-based image dataset generation and annotation 
+# Midjourney, Grounding Dino and SAM: Prompt-based image dataset generation and annotation 
 ### Accompanying Medium article
 
 
